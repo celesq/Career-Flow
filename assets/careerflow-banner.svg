@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">CareerFlow brand banner</title>
+  <desc id="desc">Abstract violet and teal visual of application milestones and next actions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#101735"/>
+      <stop offset="0.55" stop-color="#181f4a"/>
+      <stop offset="1" stop-color="#131d40"/>
+    </linearGradient>
+    <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#8D87FF"/>
+      <stop offset="1" stop-color="#42DEC5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.7" cy="0.45" r="0.65">
+      <stop offset="0" stop-color="#7057E9" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#7057E9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#05091A" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="370" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="370" rx="26" fill="url(#glow)"/>
+  <g opacity="0.18" stroke="#838ABD" stroke-width="1">
+    <path d="M0 74H1200M0 148H1200M0 222H1200M0 296H1200"/>
+    <path d="M100 0V370M200 0V370M300 0V370M400 0V370M500 0V370M600 0V370M700 0V370M800 0V370M900 0V370M1000 0V370M1100 0V370"/>
+  </g>
+  <g transform="translate(71 89)">
+    <rect x="0" y="0" width="55" height="55" rx="16" fill="#837AFF"/>
+    <path d="M15 33L24 42L42 19" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="75" y="44" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-1.8" fill="#FFFFFF">Career<tspan fill="#67E1D1">Flow</tspan></text>
+    <text x="0" y="101" font-size="23" font-family="Arial, Helvetica, sans-serif" font-weight="500" fill="#D3D8F5">Every application has a next step.</text>
+    <text x="0" y="135" font-size="23" font-family="Arial, Helvetica, sans-serif" font-weight="500" fill="#D3D8F5">Now you can see it.</text>
+    <rect x="0" y="175" width="135" height="35" rx="17.5" fill="#343967"/>
+    <circle cx="20" cy="192" r="5" fill="#59E8C7"/>
+    <text x="33" y="198" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#EFF0FF">ACT ON WHAT'S NEXT</text>
+  </g>
+  <g filter="url(#shadow)" transform="translate(710 54)">
+    <rect x="0" y="4" width="425" height="265" rx="20" fill="#252E5D" stroke="#6872A8" stroke-opacity="0.45"/>
+    <rect x="0" y="4" width="425" height="53" rx="20" fill="#303B73"/>
+    <rect x="0" y="33" width="425" height="24" fill="#303B73"/>
+    <circle cx="27" cy="31" r="5" fill="#F67D91"/><circle cx="44" cy="31" r="5" fill="#F6D27D"/><circle cx="61" cy="31" r="5" fill="#7DDFC4"/>
+    <text x="27" y="90" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="18" fill="#FFFFFF">Needs attention</text>
+    <text x="377" y="89" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#88F0D7">03</text>
+    <rect x="25" y="108" width="376" height="58" rx="11" fill="#394678"/>
+    <circle cx="49" cy="136" r="10" fill="#FFCA83"/>
+    <text x="68" y="135" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="13" fill="#FFFFFF">Assessment deadline</text>
+    <text x="68" y="151" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#C3D0F9">Tomorrow · 18:00</text>
+    <path d="M367 136h11m-5-5 5 5-5 5" stroke="#9BF4DB" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+    <rect x="25" y="179" width="376" height="58" rx="11" fill="#394678"/>
+    <circle cx="49" cy="207" r="10" fill="#9B8CFF"/>
+    <text x="68" y="206" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="13" fill="#FFFFFF">Technical interview</text>
+    <text x="68" y="222" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#C3D0F9">Tuesday · 11:30 CET</text>
+    <path d="M367 207h11m-5-5 5 5-5 5" stroke="#9BF4DB" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  </g>
+  <path d="M680 295C744 320 788 318 843 306S941 292 988 314s115 21 156-2" stroke="url(#gradient)" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.9"/>
+  <circle cx="681" cy="295" r="7" fill="#9985FF"/><circle cx="843" cy="306" r="7" fill="#8989FF"/><circle cx="988" cy="314" r="7" fill="#50DFC7"/><circle cx="1144" cy="312" r="8" fill="#50DFC7"/>
+</svg>
